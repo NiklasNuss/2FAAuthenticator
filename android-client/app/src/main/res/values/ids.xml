@@ -1,0 +1,5 @@
+<!-- res/values/ids.xml -->
+<resources>
+    <item name="fab_action1" type="id"/>
+    <item name="fab_action2" type="id"/>
+</resources>

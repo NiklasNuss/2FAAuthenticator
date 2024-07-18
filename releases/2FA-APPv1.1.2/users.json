@@ -1,0 +1,233 @@
+[
+  {
+    "username": "deimom",
+    "password": "$2a$10$4twrpEw07eyAgnw0al88I.NtKDRhZdN6NifnMlmplheXioYd2cq7.",
+    "email": "nyMgdc2cfLv8NMgzb4jPOj5pXbaWMbtR/p/0ooO55fQ\u003d",
+    "secretKey": "9OpZihaNJtl3wAWqYVm6JSPI/fBtl5+mMGUx47FUZlRfDruahAyDbIej4HtYblay",
+    "crypto": true,
+    "otpList": [
+      "kfzj0iDrpBx4yj38zFhCzg\u003d\u003d",
+      "7ugPpxbbPHDTkBAu3J0OoA\u003d\u003d",
+      "dswsYGfV4lJsAwznSF1rqw\u003d\u003d",
+      "NgWQrzFW5HMMcvaNvkEh1A\u003d\u003d",
+      "hfacflqk6Xq3sMbTVB0EvQ\u003d\u003d",
+      "F+6W93OLgdmZacxerbs3kg\u003d\u003d",
+      "H9BE+AQIh4Anv6v/TEZBqw\u003d\u003d",
+      "8v5+MgavQio3XKAmbQ3PfA\u003d\u003d",
+      "hwFImnYUfM6fmGCt60T6Lw\u003d\u003d",
+      "jsU1ysYzQ11es+zXoHanAA\u003d\u003d"
+    ],
+    "message": "XW+t88hkAla8rtKxtvFwSjAxM/0FXblDwnDG8ZhHZGU\u003d",
+    "counter": "pnc6gZNY5BWHQwYB3Xd2GA\u003d\u003d"
+  },
+  {
+    "username": "eefsef",
+    "password": "$2a$10$h9DTdsWpWFXEamhNRDmqwufGkWftqXUg8jm6WI9H9wz08jCLU2zR.",
+    "email": "W+EHqF+kNr9FNubnhrJdLORiwQ2KNRmBoTF+cALAl9s\u003d",
+    "secretKey": "Sf7x0NfKJSpIrzGxPAtebbp7r9ukyX53Q27eKXILFLfRfL8oJBdPeDr3dj7yI9Ak",
+    "crypto": true,
+    "otpList": [
+      "XFjiZJk45WrLJkLd/GUILA\u003d\u003d",
+      "DsxyokmVzGwgPq8u4xKR0w\u003d\u003d",
+      "7klzo6gNS6QQOj4iA0l7tw\u003d\u003d",
+      "vMcXqhPk8QUeoJtkRjK8/Q\u003d\u003d",
+      "LbqLkrs5JFEQl5f33Z+eNQ\u003d\u003d",
+      "B0HqXM493/fnWEf9Dg2s6g\u003d\u003d",
+      "+tn6vVyPJlXtkdyA9sgpKA\u003d\u003d",
+      "dXb2P04fQd7BenJyPkO69w\u003d\u003d",
+      "qSu0XTucNUNeyew7bOh/LQ\u003d\u003d",
+      "PgD2l3qT3Ga5oz45xWOFVA\u003d\u003d"
+    ],
+    "message": "c0xzPaVIHLbQLujcSh2HteMvV821PSjQO1gEkjzQ0mE\u003d",
+    "counter": "VZvK7FE4qAQyXPkKA18Rjw\u003d\u003d"
+  },
+  {
+    "username": "wawadawd",
+    "password": "awdawd",
+    "email": "awdwadawdwadwdaawd@edawd.de",
+    "secretKey": "KDN27TPL4DXKEKV2XC6OBJZR2J7HNAVR",
+    "crypto": false,
+    "otpList": [
+      "131588",
+      "374733",
+      "983513",
+      "784591",
+      "688449",
+      "939802",
+      "220052",
+      "537159",
+      "159902",
+      "942154"
+    ],
+    "message": "Default Secret Message.",
+    "counter": "1"
+  },
+  {
+    "username": "adwwad",
+    "password": "$2a$10$dLseNj3LpIkxTNIvfCI/FutW5JtMWLyytaJWRkO7NQVNPWhxJyAOG",
+    "email": "3WQdgi8wXtHiHV5GaIUZQ7nXuzm0spTcwamLqiqxjVE\u003d",
+    "secretKey": "8swljez+jhKHNtSEMzqJ5iygMqsyFs+G1ovBCJmFkgCKYfQlya8CvtsrpUg2/Lij",
+    "crypto": true,
+    "otpList": [
+      "QceJUUfj7o//k1YJFPpaFw\u003d\u003d",
+      "uPzZRZ7k1VOx+mN/g6NrZg\u003d\u003d",
+      "h+Emx1ovD2MXeIe3hYrz+Q\u003d\u003d",
+      "JixCmshjvYZdWPy+SRdBVg\u003d\u003d",
+      "DIoj13WyA7rv0MBcXGdf+g\u003d\u003d",
+      "6L0u+aJcRN4OEmjlD7SmxA\u003d\u003d",
+      "t8lAPJvWjrJtmpa1fPmzzQ\u003d\u003d",
+      "hvm0r1kzpVUAT2PMftqOAg\u003d\u003d",
+      "2gWRWMyO/SMuM1scXYVpKA\u003d\u003d",
+      "EBJTI3NqyAJR8Q4f5FV7qw\u003d\u003d"
+    ],
+    "message": "pnLQeEORjKjBwypwlyhSK0hHPnH8hjgOtLRTWGolK/w\u003d",
+    "counter": "sgvLkj/kcUDpKA/nDZWaaQ\u003d\u003d"
+  },
+  {
+    "username": "smishi",
+    "password": "$2a$10$vJ81dEy02q/MlCPjbV5uVu9rL5ynZ2UFwui4pFaupfaIBqgs6PFUG",
+    "email": "uhxIxq2i80EJA4UMwMMZ2F8Ou5qEDINsh6Pge1huVrI\u003d",
+    "secretKey": "OEpOjraglrtB3HiSr6eIM0oA+Fr7W9bGXQuM33m/DJlfDruahAyDbIej4HtYblay",
+    "crypto": true,
+    "otpList": [
+      "dW/i6rJ+zSQWIQn3RL8WnQ\u003d\u003d",
+      "RDAUHBYGaYRUkTtnmS+hgg\u003d\u003d",
+      "L3LBFAhvam7oSvOBVFCxVg\u003d\u003d",
+      "clWD9+ikr4wLT/QNoakrBw\u003d\u003d",
+      "pWcK169mBmM1oJ0fLpYMbA\u003d\u003d",
+      "t3DP3MUK9fxqHxAnV+Z9sA\u003d\u003d",
+      "90gw83d6z3U9bZr5Fej5XQ\u003d\u003d",
+      "XyJjj/7M221jcnxcxC37hQ\u003d\u003d",
+      "dgj+cqgtYo9vLfpoOeZPUQ\u003d\u003d",
+      "PeisdzKNoJgqQC+ZVZiGIQ\u003d\u003d"
+    ],
+    "message": "XW+t88hkAla8rtKxtvFwSjAxM/0FXblDwnDG8ZhHZGU\u003d",
+    "counter": "pnc6gZNY5BWHQwYB3Xd2GA\u003d\u003d"
+  },
+  {
+    "username": "e",
+    "password": "e",
+    "email": "e@e.gmx.de",
+    "secretKey": "7DSC6PCEOUN2BNRSOG6G7XR25ZYZA4I2",
+    "crypto": false,
+    "otpList": [
+      "788712",
+      "901251",
+      "140322",
+      "092798",
+      "537662",
+      "245569",
+      "518504",
+      "509969",
+      "108162",
+      "063233"
+    ],
+    "message": "Default Secret Message.",
+    "counter": "1"
+  },
+  {
+    "username": "ea",
+    "password": "e",
+    "email": "e@gmx.de",
+    "secretKey": "LR6NFWYHD4QOXVCTW3IGKKLJE67D5DSY",
+    "crypto": false,
+    "otpList": [
+      "868753",
+      "407796",
+      "398995",
+      "403968",
+      "683487",
+      "145397",
+      "753814",
+      "800308",
+      "017178",
+      "346976"
+    ],
+    "message": "Default Secret Message.",
+    "counter": "1"
+  },
+  {
+    "username": "d",
+    "password": "d",
+    "email": "d@d.gmx.de",
+    "secretKey": "AIZEP5FMRJZRRQSTDXPDY55XHZBDO2GC",
+    "crypto": false,
+    "otpList": [
+      "183944",
+      "298457",
+      "556639",
+      "731576",
+      "890371",
+      "637717",
+      "444491",
+      "003074",
+      "857655",
+      "252693"
+    ],
+    "message": "Default Secret Message.",
+    "counter": "1"
+  },
+  {
+    "username": "Nik",
+    "password": "Nik",
+    "email": "Nik.schik@gmx.de",
+    "secretKey": "XDPRWK7TWR2AGHP7FJDQDSYQEPMD6XBJ",
+    "crypto": false,
+    "otpList": [
+      "187918",
+      "953779",
+      "940138",
+      "630809",
+      "519778",
+      "222511",
+      "770038",
+      "178269",
+      "737716",
+      "776453"
+    ],
+    "message": "Default Secret Message.",
+    "counter": "1"
+  },
+  {
+    "username": "buh",
+    "password": "buh",
+    "email": "buh@gmx.de",
+    "secretKey": "XLSKH4BAYAPWQJ26ENNDQC7M2STYKIHQ",
+    "crypto": false,
+    "otpList": [
+      "123155",
+      "596345",
+      "315393",
+      "284404",
+      "082954",
+      "013710",
+      "112028",
+      "424194",
+      "750742",
+      "957852"
+    ],
+    "message": "Default Secret Message.",
+    "counter": "1"
+  },
+  {
+    "username": "lol",
+    "password": "lol",
+    "email": "lol@gmx.de",
+    "secretKey": "QJ4WKJK3NMAGFR6PG25TTIYOPSBHOH5R",
+    "crypto": false,
+    "otpList": [
+      "623290",
+      "336347",
+      "184578",
+      "032468",
+      "667926",
+      "086713",
+      "353601",
+      "242243",
+      "732473",
+      "645485"
+    ],
+    "message": "Default Secret Message.",
+    "counter": "1"
+  }
+]
